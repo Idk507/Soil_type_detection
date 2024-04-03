@@ -46,5 +46,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Author
 
-[Dhanushkumar] - [Your GitHub Profile](https://github.com/Idk507)
+[Dhanushkumar] -  [GitHub Profile](https://github.com/Idk507)
 
