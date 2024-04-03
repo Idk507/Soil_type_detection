@@ -19,7 +19,7 @@ This is a Streamlit web application for classifying soil types using a TensorFlo
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/soil-type-classifier.git
+git clone [https://github.com/Idk507/Soil-type-detection.git](https://github.com/Idk507/Soil_type_detection/)
 
 
 The application will open in your web browser. You can then upload an image of soil and click the "Predict" button to classify the soil type.
